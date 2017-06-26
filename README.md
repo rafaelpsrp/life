@@ -1,2 +1,2 @@
-# http://rafaelpsrp.github.io/rafaelpaulo.github.io
+# http://rafaelpsrp.github.io/
 First Step
