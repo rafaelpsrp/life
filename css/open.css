@@ -1,0 +1,27 @@
+html,body{
+	display: flex;
+    color: white;
+    width: 100vw;
+    height: 80vh;
+    overflow: hidden;
+    font-family: 'Raleway', sans-serif;
+    background-color:   rgb(102, 0, 0);
+}
+
+.flow{
+	display: inline-flex;
+    margin: auto;
+}
+
+.flow li{
+	display: inline-flex;
+    position: absolute; 
+    transform: translate(-87px, 90px); /* Colocar em uma variÃ¡vel  (e.g $icon-pos) */
+    flex-direction: row;
+    list-style: ;
+    cursor: pointer;
+}
+
+.flow img{
+	transform: 0.5s;
+    width: 45px;
