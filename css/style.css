@@ -4,7 +4,7 @@ html, body{
 	color:white;
 	background-color:rgb(102, 0, 0);
 	font-family: 'Raleway', sans-serif;
-	overflow:auto;
+	overflow:visible;
 
 }
 
